@@ -5,7 +5,7 @@ numpy
 scikit-learn
 matplotlib
 plotly
-
+python
 # API and data fetching
 requests
 openmeteo-py
