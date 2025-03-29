@@ -1,7 +1,32 @@
+# Core dependencies
 streamlit
-requests
 pandas
 numpy
-plotly
 scikit-learn
+matplotlib
+plotly
+
+# API and data fetching
+requests
+openmeteo-py
+geopy
+requests-cache
+retry-requests
+
+# Machine learning models
+torch
+transformers
+xgboost
+lightgbm
+prophet
+statsmodels
 joblib
+
+# Utilities
+tqdm
+streamlit-typeahead
+python-dotenv
+
+# Hugging Face specific
+datasets
+evaluate
